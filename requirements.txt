@@ -1,0 +1,4 @@
+openai
+selenium
+Pillow
+python-dotenv
